@@ -16,6 +16,6 @@ Welcome to my project hub! 🚀 Here, you'll find a growing collection of projec
 ## Projects
 
 ### 1. **Personal Website**
-   - Focus: A platform to present my skills, experience, and projects in a clear, professional way. This webpage in progress will serve as a digital portfolio, giving visitors insight into my work and providing an easy way to get in touch.
+   - **Focus**: A platform to present my skills, experience, and projects in a clear, professional way. This webpage in progress will serve as a digital portfolio, giving visitors insight into my work and providing an easy way to get in touch.
 
    
